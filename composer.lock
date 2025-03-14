@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "13dc2da25d6484aa7ea43895f0d6f562",
+    "content-hash": "6255cea6b814f09df8c9570ec62e1f6e",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -3097,6 +3097,18 @@
                 "source": "https://github.com/nikic/PHP-Parser/tree/v5.4.0"
             },
             "time": "2024-12-30T11:07:19+00:00"
+        },
+        {
+            "name": "npm-asset/chosen",
+            "version": "0.0.2",
+            "dist": {
+                "type": "tar",
+                "url": "https://registry.npmjs.org/chosen/-/chosen-0.0.2.tgz"
+            },
+            "type": "npm-asset",
+            "license": [
+                "MIT"
+            ]
         },
         {
             "name": "oomphinc/composer-installers-extender",
